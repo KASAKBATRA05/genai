@@ -1,0 +1,10 @@
+
+streamlit
+PyMuPDF
+sumy
+transformers==4.30.2
+torch
+sentence-transformers
+farm-haystack
+fuzzywuzzy
+python-Levenshtein
