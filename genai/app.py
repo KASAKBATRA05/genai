@@ -1,3 +1,5 @@
+import nltk
+nltk.download('punkt')
 
 import streamlit as st
 from backend.reader import extract_text_from_pdf, extract_text_from_txt
